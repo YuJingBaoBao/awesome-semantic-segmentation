@@ -33,7 +33,7 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/chainer/chainercv/tree/master/examples/segnet [Chainer]
 	+ https://github.com/ykamikawa/keras-SegNet [Keras]
-- DeepLab [x] [https://arxiv.org/pdf/1606.00915.pdf] [2017]
+- [x] DeepLab [https://arxiv.org/pdf/1606.00915.pdf] [2017]
 	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
 	+ https://github.com/cdmh/deeplab-public [Caffe]
 	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2 [Caffe]
